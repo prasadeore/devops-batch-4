@@ -5,3 +5,7 @@ git rm --cached
 git commit -m "addinng commit"
 git log ->checking comments
 git restore commands.txt
+git log --oneline
+git log --oneline --pretty
+git config --global user.name ""
+git config --global user.email ""
