@@ -1,0 +1,7 @@
+git init
+git status
+git add commands.txt
+git rm --cached
+git commit -m "addinng commit"
+git log ->checking comments
+git restore commands.txt
