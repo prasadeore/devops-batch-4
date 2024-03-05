@@ -1,0 +1,8 @@
+git init [if you need to create repository as version control use this commands]
+git status [if you want to check status of repository use this commad]
+git add [it you want to add this file as stage level use this cmd]
+git rm --cached [it you want to go unstage level use this cmd]
+git commit -m 'Adding comments' [if you want to final for stage level use this cmd]
+git restore [to restore file if you removed from repository]
+git log [it you want to check file version use this cmd]
+
