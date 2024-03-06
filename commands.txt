@@ -9,5 +9,5 @@ git log --oneline [If you want to version in small id use this cmd]
 git log --oneline --oretty [If you want version id with autor and other data use this cmd]
 git log config --global user.name "Prasad"
 git log config --global user.email "Prasad@gmail.com"
-
+git checkout -b 
 
