@@ -10,4 +10,8 @@ git log --oneline --oretty [If you want version id with autor and other data use
 git log config --global user.name "Prasad"
 git log config --global user.email "Prasad@gmail.com"
 
+git checkout -b dev [Now i am created new branch dev]
+git checkout master [Now i am om master branch]
+git branch [if i want to check i am on which branch i will use below cmd]
+git checkout dev [if i want switch on created dev branch that time i will use this cmd]
 
