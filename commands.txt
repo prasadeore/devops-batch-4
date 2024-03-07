@@ -13,5 +13,7 @@ git log config --global user.email "Prasad@gmail.com"
 git checkout -b dev [Now i am created new branch dev]
 git checkout master [Now i am om master branch]
 git branch [if i want to check i am on which branch i will use below cmd]
-git checkout dev [if i want switch on created dev branch that time i will use this cmd]
+git checkout dev [if i want switch on created dev branch that time i will use this cmd
+
+git remote add origin "https://access token@github code url"  [This comd is for to connect github to local system git]
 
